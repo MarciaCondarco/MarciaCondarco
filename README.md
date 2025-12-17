@@ -9,7 +9,7 @@
 <p>🔒 Gosto de desenvolver ideias e apartir delas pensar a forma de protege-las. 
 <p>💛 Fato sobre mim é que sou muito curiosa.
 <p> 🎯 Gosto de ir em eventos de tecnologia.  
-<br>
+<br><br><br>
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
