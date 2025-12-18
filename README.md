@@ -6,7 +6,7 @@
 
 <p>Sou uma profissional na tecnologia, cyber girl e code. 👩🏽‍💻</p>
 <p>👩🏽‍🎓 Formada em segurança da informação pela Fatec Americana.
-<p>🔒 Gosto de desenvolver ideias e apartir delas pensar a forma de protege-las. 
+<p> 🛡 Gosto de desenvolver ideias e apartir delas pensar a forma de protege-las. 
 <p>💛 Fato sobre mim é que sou muito curiosa.
 <p> 🎯 Gosto de ir em eventos de tecnologia.  
 <br><br><br>
