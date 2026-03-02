@@ -1,3 +1,4 @@
+
 <h1 align="center" >
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=25&pause=1000&color=E400F7&width=435&lines=Seja+Bem+vindo+(%EF%BD%9E%EF%BF%A3%E2%96%BD%EF%BF%A3)%EF%BD%9E" alt="Typing SVG" /></a>
@@ -34,5 +35,6 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Maxi8765.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/Duchess8765.png" alt="Your Image Badge" />
+
 
