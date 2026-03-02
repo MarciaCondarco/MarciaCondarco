@@ -12,7 +12,6 @@
 <p> 🛡 Gosto de estudar cenário e possiveis vulnerabilidades. 
 <p>💛 Fato sobre mim é que sou muito curiosa.
 <p> 🔍 Gosto de ir em eventos de tecnologia, compartilhar e contribuir. 
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br> 
 <h3 align="left">Linguagens e Ferramentas:</h3><br>
@@ -34,6 +33,5 @@
 </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<br>
-
-
+<br><br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Asmiyr8765.png" alt="Your Image Badge" />
