@@ -33,5 +33,6 @@
 </p>
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<br><br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/Asmiyr8765.png" alt="Your Image Badge" />
+<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Maxi8765.png" alt="Your Image Badge" />
+
